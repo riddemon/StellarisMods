@@ -7,12 +7,14 @@ This is a collection of mods originally meant for personal use only, this means 
 The mod is balanced following my standards, any request to balance things differently will be ignored.
 
 ### Releases (mod updates)
-Given what I stated previously:
+Given what I stated previously:[^1]
 - Updates are not guaranteed (I may update the mod on a daily basis or not at all for months).
 - Updates may change things completely.
 
 ### Contributions
 **You can contribute to my mods** and improve their code (I only like spaghetti in my plate) or fix bugs, however contributions are not guaranteed to be accepted.
+
+-----
 
 ### I spotted a bug!
 Good catch! Now there are two possible paths:
@@ -24,3 +26,20 @@ Thank you.
 I am really sorry for removing a feature you liked, you can create a mod to add it back by:
 - Using my old code to create a mod that reintroduces it, however please follow the [License](https://github.com/riddemon/StellarisMods?tab=GPL-3.0-1-ov-file#readme) and give credit to the original creator (me).
 - Code the feature back in, no need to give me credit or follow the license as I can't license ideas.
+
+### Someone cloned your mod and is taking credit for it.
+Everyone is allowed to distribute my mods but has to state any changes[^2], therefore has to credit me regardless of changes being made or not.
+Please make them aware of this and ask them to make the necessary changes.
+
+### Your haven't updated the mod in months / years!
+This may be for an extensive number of reasons. Here's what you can do:
+- Write a comment on the mod's page.
+  - I may have forgotten about it.
+  - I may be working on it.
+  - I may have designated someone to continue on my work.
+- Fork my mod and create your own[^2].
+  - **Depending on the changes you made** you may be requested to delete your mod to avoid conflicts with the original one.
+- Wait and hope.
+
+[^1]: This is a collection of mods originally meant for personal use only.
+[^2]: https://github.com/riddemon/Riddemons-Rebalance?tab=GPL-3.0-1-ov-file
