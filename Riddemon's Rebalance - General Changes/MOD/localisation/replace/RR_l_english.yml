@@ -1,9 +1,0 @@
-﻿l_english:
-  # Events
-    # Arcane Deciphering
-      ancrel.10000.name:0 "$tech_arcane_deciphering$"
-      ancrel.10000.desc:0 "Choose what to use your minor artifacts for."
-
-  # Species Rights
-    slavery_domestic_tooltip:0 "§HDomestic Servants§! will be employed as Servants, increases £amenities£ $PLANET_AMENITIES_TITLE$."
-    slavery_domestic_tooltip_delayed:0 "§LDomestic servants spend much of their time tending to the needs of free Pops. They tend to live alongside their masters and thus require almost no dedicated housing.§!"
