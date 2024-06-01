@@ -39,3 +39,8 @@ This mod was originally meant for [b]personal use[/b], therefore updates are not
 [h1] Balance [/h1]
 The mod is balanced [b]following my standards[/b].
 I am sorry if it does not follow yours (or someone else's) but there will be no effort to balance further than my own needs and opinions.
+
+[h1]Links[/h1]
+[table][tr]
+  [td][url=https://github.com/riddemon/Riddemons-Rebalance][img]https://github.githubassets.com/favicons/favicon-dark.png[/img][/url][/td]
+[/tr][/table]
